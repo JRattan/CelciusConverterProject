@@ -9,11 +9,9 @@
  * Created on Nov 9, 2011, 1:45:41 PM
  */
 
-package learn;
-
 /**
  *
- * @author Carlo
+// * @author Carlo
  */
 public class CelciusConverterGUI extends javax.swing.JFrame {
 
